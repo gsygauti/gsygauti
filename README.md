@@ -1,12 +1,12 @@
 # 💫 About Me:
 MIET’26 | EX-Intern at @SkillCraft Technology | Aspiring Data Analyst | Python (Data Science) | SQL 🛢️ | Power BI 📊, Tableau | Open to Analytics & DS roles<br><br> 
-- 📊 Aspiring Data Analyst with hands-on experience in Python, SQL, and spreadsheets for cleaning, exploring, and visualizing data. [web:3].  
-- 🧮 Worked on projects like shopping mall sales analysis and other sales data projects to uncover trends and support business decisions. [web:6]  
-- 🗄️ Comfortable with MySQL and cloud databases (AWS / Oracle Cloud) and interested in database administration and replication concepts. [web:4]  
-- 📈 Learning and building dashboards in Power BI and Tableau to turn raw data into clear, actionable insights. [web:3]    
-- 💼 Actively growing as an intern, contributing to data analysis tasks and continuously improving coding and problem-solving skills. [web:6]  
-- 🌱 Currently focusing on: sharpening SQL, improving data storytelling, and preparing for cloud and analytics certifications. [web:3]  
-- 🤝 Open to: data analysis internships, collaboration on analytics/BI projects, and contributions to open-source data tools. [web:1]  
+- 📊 Aspiring Data Analyst with hands-on experience in Python, SQL, and spreadsheets for cleaning, exploring, and visualizing data.  
+- 🧮 Worked on projects like shopping mall sales analysis and other sales data projects to uncover trends and support business decisions.   
+- 🗄️ Comfortable with MySQL and cloud databases (AWS / Oracle Cloud) and interested in database administration and replication concepts.   
+- 📈 Learning and building dashboards in Power BI and Tableau to turn raw data into clear, actionable insights.    
+- 💼 Actively growing as an intern, contributing to data analysis tasks and continuously improving coding and problem-solving skills. 
+- 🌱 Currently focusing on: sharpening SQL, improving data storytelling, and preparing for cloud and analytics certifications.  
+- 🤝 Open to: data analysis internships, collaboration on analytics/BI projects, and contributions to open-source data tools.    
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gaurav singh yadav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gsy_gauti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gaurav singh yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsy788904@gmail.com) 
